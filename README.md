@@ -1,1 +1,1 @@
-# jakob-junis-proj
+# Reinventing Jakob Junis Using Q-Learning
